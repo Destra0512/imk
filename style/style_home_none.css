@@ -1,0 +1,53 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url(/Asset/Vector.png);
+    background-color: #3966E0;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 42px;
+    align-items: center;
+}
+
+.profile p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 11px;
+}
+
+.wrapper {
+    border-radius: 30px 30px 0px 0px;
+    margin-top: 59px;
+    width: 100%;
+    height: 418px;
+    background-color: white;
+}
+
+.judul p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.no-item {
+    text-align: center;
+}
+
+.no-item img {
+    margin-top: 40px;
+}
+
+.no-item p {
+    font-family: 'Open Sans', sans-serif;
+    color: #595959;
+    font-size: 12px;
+}
+
+.add {
+    margin-top: 88px;
+    text-align: center;
+}

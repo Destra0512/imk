@@ -1,0 +1,67 @@
+.back {
+    margin-top: 20px;
+}
+
+.add {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.photo-add {
+    width: 100%;
+    height: 222px;
+    background: #ECECEC;
+    border: 2px dashed #CBCBCB;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+
+.photo-add .camera {
+    text-align: center;
+    position: relative;
+    top: 91px;
+}
+
+.photo-add .camera p {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 400;
+    color: #595959;
+    font-size: 10px;
+}
+
+form input{
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif !important;
+    background-color: #e9e9e9 !important;
+    color: #9b9b9b;
+}
+
+.start {
+    display: flex;
+    align-items: center;
+}
+
+.start p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px !important;
+}
+
+.start img {
+    margin-left: 207px;
+}
+
+.but button {
+    font-family: 'Raleway', sans-serif;
+    width: 100% !important;
+    margin-top: 97px;
+}
+
+.but a {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
